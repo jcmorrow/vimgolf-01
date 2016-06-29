@@ -1,0 +1,5 @@
+%html
+  %head
+    %title VimGolf Night at thoughtbot!
+  %body
+    %h1 All your haml's are belong to us

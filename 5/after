@@ -1,0 +1,5 @@
+{
+  'user' => 'thoughtbot',
+  'city' => 'San Francisco',
+  'robot' => 'ralph'
+}
